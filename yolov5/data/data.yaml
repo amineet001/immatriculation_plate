@@ -1,0 +1,7 @@
+train: ../image/GENERATED_DATASET/train/images
+val: ../image/GENERATED_DATASET/valid/images
+
+
+nc: 2
+names: ['Background','licence_plate']
+
